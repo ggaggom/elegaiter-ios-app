@@ -1,0 +1,110 @@
+[Elegaiter Service Terms and Conditions Details]
+
+Article 1 (Purpose)
+These Terms and Conditions set forth the conditions and procedures for using the exercise and
+health management reference service (the "Service") provided through the mobile application
+'Elegaiter' (the "App") operated by Ciklux Co., Ltd. (the "Company"), and define the rights,
+obligations, and responsibilities between the Company and users.
+The Service does not provide medical diagnosis, treatment, or disease prevention and cannot
+replace consultation with a medical professional.
+
+Article 2 (Definitions)
+Member: A person who agrees to these Terms and enters into a service use agreement with the
+Company to use the Service.
+Service: Features provided through the App, including gait data-based analysis, exercise records,
+statistical visualization, report provision, server-based record management, and evaluation of user
+mobility (activity).
+Gait Data: All information collected about a Member’s gait characteristics (stride length, step
+count, walking speed, balance, etc.) during Service use.
+Location Information: Location information of a specific individual, including information that can
+identify an individual when combined with other data, even if the location alone does not identify
+the person.
+
+Article 3 (Posting and Modification of Terms)
+The Company shall post these Terms on the App and the Company website so that Members can
+easily access and review them.
+The Company may amend these Terms within the limits of applicable laws, including the Act on
+Promotion of Information and Communications Network Utilization and Information Protection,
+the Personal Information Protection Act, and the Act on the Protection and Use of Location
+Information.
+When amending the Terms, the Company shall specify the effective date and the reason for the
+change, and notify Members via in-app announcements, push notifications, or email at least 7
+days prior (30 days prior if changes are disadvantageous to Members).
+If a Member does not agree with the amended Terms, they may discontinue using the Service
+and withdraw their membership. Continued use of the Service after the notice period constitutes
+agreement to the amended Terms.
+
+Article 4 (Service Use)
+The Company provides the Service defined in Article 2 to Members.
+The Company may temporarily suspend the Service for technical reasons, maintenance, inspection,
+replacement, or communication failures. Members will be notified in advance when possible; in
+unforeseen cases, notice will be provided promptly afterward.
+Information provided through the Service (gait analysis results, exercise records, statistics, reports,
+mobility evaluations) is for reference only for personal exercise and health management and does
+not constitute medical advice. Members must not use this information for medical decisions or
+treatment.
+
+Article 5 (Member Obligations)
+Members must comply with applicable laws, these Terms, and Company notices, and must not
+interfere with the Company’s operations or infringe on others' rights.
+Members must provide accurate information during registration and update it when changes
+occur. Members are responsible for any issues arising from inaccurate information.
+Members are responsible for safeguarding their account credentials and must not transfer or
+share them. The Company is not liable for issues caused by a Member’s negligence.
+Members must not use Service information for commercial purposes or share it externally without
+prior Company consent.
+
+Article 6 (Intellectual Property Rights)
+All content within the Service (text, images, data, analysis algorithms, etc.) is owned by the
+Company.
+Members may use Service information for personal, non-commercial purposes without infringing
+the Company’s intellectual property.
+Ownership of information provided by Members (gait data, exercise records, etc.) remains with the
+Member, but the Company has a perpetual, non-exclusive right to use such information for
+service provision, improvement, new feature development, statistical analysis, and research,
+processed in anonymized form in accordance with the Privacy Policy.
+
+Article 7 (Disclaimer)
+The Company is not liable for service interruptions due to force majeure beyond its control,
+including natural disasters, war, riots, civil unrest, power outages, or communication failures.
+The Company is not responsible for service disruptions or damages caused by Member
+negligence or violations of these Terms.
+The Company does not guarantee the accuracy, completeness, currency, reliability, or usefulness
+of Service information and is not liable for any damages resulting from Members’ reliance on the
+information for medical, health-related, investment, or other decisions. Service information is for
+reference only.
+The Company is not responsible for issues arising from Members’ devices, networks, or third-party
+equipment used with the Service.
+Except in cases of intentional or gross negligence, the Company is not liable for damages incurred
+by Members in connection with the Service. Any recognized liability is limited to the scope
+prescribed by law and to a reasonable, foreseeable extent.
+The Company is not obligated to intervene in disputes between Members or between Members
+and third parties arising through the Service, nor to compensate for related damages.
+
+Article 8 (Termination and Use Restrictions)
+Members may withdraw from the Service at any time through the App, and the Company shall
+process this promptly in accordance with applicable laws.
+The Company may restrict Service use or terminate membership for violations of these Terms or
+interference with normal operations.
+Termination results in loss of all Service access and data, without additional compensation.
+
+Article 9 (Damages)
+The Company shall compensate for damages caused by its fault in accordance with relevant laws,
+including the Civil Act.
+Members causing damages to the Company by violating these Terms must compensate the
+Company.
+
+Article 10 (Governing Law and Jurisdiction)
+These Terms are governed by the laws of the Republic of Korea.
+Disputes shall be resolved amicably where possible. If litigation occurs, the competent court shall
+be determined according to relevant laws.
+
+Article 11 (Notices)
+Notices to Members may be given via email, in-app notifications, or push notifications. Notices to
+all Members may be replaced by posting on the in-app notice board for at least 7 days.
+
+Article 12 (Miscellaneous)
+Matters not covered in these Terms shall follow relevant laws or Company policies.
+
+Addendum
+These Terms are effective from [Scheduled Service Launch Date].

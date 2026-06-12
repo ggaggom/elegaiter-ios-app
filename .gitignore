@@ -1,0 +1,176 @@
+# --------------------------------------------
+# macOS 기본 파일
+# --------------------------------------------
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.temp
+*.log
+*~
+ 
+
+# --------------------------------------------
+# Xcode / User Settings
+# --------------------------------------------
+xcuserdata/
+DerivedData/
+build/
+*.moved-aside
+
+# Xcode project metadata
+*.xcscmblueprint
+*.xccheckout
+*.hmap
+
+# Xcode Workspace
+*.xcworkspace/xcuserdata/
+!*.xcworkspace/contents.xcworkspacedata
+
+# Older Xcode compatibility
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+
+# --------------------------------------------
+# Swift / Swift Module Files
+# --------------------------------------------
+.build/
+.swiftpm/
+*.swiftdeps
+*.swiftdoc
+*.swiftmodule
+*.swiftinterface
+
+
+# --------------------------------------------
+# App Build Artifacts
+# --------------------------------------------
+# 앱 빌드 결과물
+*.app
+*.ipa
+*.appex
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+
+# 참조하는 SDK의 빌드 결과물 (프로젝트 참조 방식 사용 시)
+# SDK의 빌드 결과물은 SDK 프로젝트의 .gitignore에서 관리됨
+# *.framework
+# *.xcframework
+
+
+# --------------------------------------------
+# Build Output Directories (custom)
+# --------------------------------------------
+build_artifacts/
+dist/
+output/
+Products/
+Archives/
+
+
+# --------------------------------------------
+# CocoaPods / Carthage / Accio
+# --------------------------------------------
+Pods/
+Carthage/Build/
+Dependencies/
+.accio/
+
+# SPM
+# Package.resolved (원하면 체크인 가능)
+# Packages/
+
+
+# --------------------------------------------
+# Certificates / Secrets / Auth
+# --------------------------------------------
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.cer
+*.certSigningRequest
+*.keychain
+
+GoogleService-Info.plist
+google-services.json
+AuthKey_*.p8
+
+Secrets.swift
+Config.local.swift
+*.secrets
+*.plist.local
+
+
+# --------------------------------------------
+# Documentation Build Output
+# --------------------------------------------
+docs/build/
+Documentation/build/
+jazzy/
+
+
+# --------------------------------------------
+# Testing / Profiling
+# --------------------------------------------
+test-results/
+*.test_result
+*.xctestresult
+*.profdata
+*.gcda
+*.gcno
+*.trace
+
+# --------------------------------------------
+# Simulator Data (앱 프로젝트 특화)
+# --------------------------------------------
+# 시뮬레이터 데이터는 일반적으로 무시하지 않지만,
+# 필요시 주석 해제하여 사용
+# Library/Developer/CoreSimulator/
+
+
+# --------------------------------------------
+# Generated Code (SwiftGen / R.swift / Sourcery)
+# --------------------------------------------
+*.generated.swift
+**/Generated/
+R.generated.swift
+
+
+# --------------------------------------------
+# CI/CD Artifacts
+# --------------------------------------------
+.ci/
+ci_output/
+.github/workflows/*.log
+
+
+# --------------------------------------------
+# Misc Tooling
+# --------------------------------------------
+iOSInjectionProject/
+.rome/
+.tuist-bin/
+.tuist-version
+bazel-*
+.buckd/
+buck-out/
+
+# Cursor IDE
+.cursor/
+
+
+# --------------------------------------------
+# App-specific Local Config (앱 프로젝트 특화)
+# --------------------------------------------
+# 앱별 로컬 설정 파일이 있다면 여기에 추가
+# 예: Config.local.plist, Secrets.local.swift 등
+# (SDK의 .gitignore에 이미 포함되어 있지만 명시적으로 표시)
+

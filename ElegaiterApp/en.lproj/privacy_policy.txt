@@ -1,0 +1,126 @@
+[Elegaiter Service Privacy Policy Details]
+
+Ciklux Co., Ltd. (hereinafter referred to as the “Company”) operates the 'Elegaiter' mobile
+application (hereinafter referred to as the “App”) service in compliance with the Personal
+Information Protection Act and other relevant laws, and has established the following privacy
+policy to protect users’ personal information.
+
+1. Personal Information Collected and Collection Methods
+A. Items Collected
+• Upon Sign-up: Name, date of birth, gender, phone number, account information used for login
+(e.g., email or external account), optional information such as address.
+• During Service Use: Exercise records (type, duration, distance, etc.), gait data (stride length, step
+count, walking speed, balance information – sensitive data), physical information (height, weight –
+sensitive data), device information (IP address, OS, device model), service usage records (visit
+date/time, app usage patterns), location information (collected to evaluate user mobility during
+app use – requires consent via location terms).
+• Upon Customer Inquiry: Name, phone number, email, and other information necessary to
+resolve the inquiry.
+B. Collection Methods
+• Information is directly provided by users during sign-up, profile updates, or inquiries.
+• Some information is automatically generated or collected via the App or connected devices
+during service use.
+
+2. Purpose of Collection and Use
+The Company uses collected personal information for the following purposes:
+A. Service Provision and Operation: Implement core service functions such as gait data analysis,
+exercise record management, generating reports and statistics, providing customized exercise
+guidance, and evaluating user mobility.
+B. Member Management: Identify and verify members, manage service eligibility, prevent
+unauthorized or abusive use, and communicate notices.
+C. Service Improvement and New Service Development: Improve service performance, develop
+new features, and conduct statistical analyses or research using anonymized data.
+D. Customer Support: Handle inquiries and complaints, and provide announcements.
+E. Marketing and Advertising: With separate consent, provide event information, participation
+opportunities, or advertising information. Consent can be withdrawn at any time.
+F. Legal Compliance: Preserve records as required by law, resolve disputes, etc.
+The Company does not use collected personal information for medical diagnosis, treatment,
+prevention, or other medical purposes, nor does it provide medical opinions or judgments.
+
+3. Retention and Usage Period
+Personal information is deleted without delay once its collection purpose is fulfilled. However,
+certain information may be retained for specific periods for the reasons listed below:
+A. Member Information: Retained until account deletion. Exceptions:
+• If under investigation for legal violations, until the investigation concludes.
+• If debts or credits remain, until settlement.
+• If retention is required by other laws (e.g., Act on Promotion of Information and
+Communications Network Utilization and Information Protection), until the period prescribed by
+law.
+B. Service Usage Records, Gait Data, Exercise Records: Until account deletion or fulfillment of
+collection purpose. Anonymized data for research and improvement may be retained indefinitely.
+C. Customer Inquiry Records: Retained until inquiry resolution [example: 3 years] or as required by
+law.
+D. Location Information Confirmation Data: Retained for 6 months pursuant to Article 16 of the
+Act on the Protection and Use of Location Information.
+
+4. Procedures and Methods for Destruction
+When personal information is no longer required due to expiration of retention periods or
+achievement of purposes, it is destroyed without delay.
+A. Destruction Procedures: Select data for destruction and obtain approval from the Chief Privacy
+Officer (CPO).
+B. Destruction Methods:
+• Electronic files are permanently deleted using technical measures to prevent recovery.
+• Paper documents are shredded or incinerated.
+
+5. Provision to Third Parties
+The Company does not share personal information with third parties except in the following
+cases:
+A. With prior consent of the user, specifying the recipient, purpose, and information to be
+provided.
+B. When required by law.
+
+6. Outsourcing of Personal Information Processing
+Some services may be outsourced. Contracts comply with Article 26 of the Personal Information
+Protection Act, including restrictions on data usage, implementation of technical and
+administrative protections, limits on re-outsourcing, and liability for damages. The Company
+supervises the outsourced party to ensure safe handling of personal information.
+
+7. Rights of Users and Legal Representatives
+Users may exercise their rights to access, correct, delete, or request suspension of personal
+information processing. Parents or legal guardians may exercise rights on behalf of children under
+14.
+A. Exercise Procedure: Requests may be submitted via written form, phone, email, or fax. The
+Company will respond promptly.
+B. Access and Correction: Users may request access to their data and correction of errors per
+Articles 35 and 36 of the Personal Information Protection Act.
+C. Deletion: Users may request deletion per Article 36, except where retention is required by law.
+D. Suspension of Processing: Users may request suspension per Article 37, except in cases where:
+• Legal obligations require processing.
+• Processing is necessary to prevent harm to others or protect others’ rights.
+• Contractual obligations cannot be met without processing and the user has not clearly
+requested contract termination.
+E. Withdrawal of Consent: Users may withdraw consent at any time via the App or by contacting
+the CPO. Withdrawal may limit service functionality.
+
+8. Measures for Ensuring Safety
+The Company takes the following measures:
+A. Establishes and implements internal management plans.
+B. Minimizes and trains personnel handling personal information.
+C. Controls access and restricts permissions.
+D. Encrypts sensitive information (e.g., passwords).
+E. Uses security programs to prevent hacking and updates them regularly.
+F. Maintains access logs and prevents tampering.
+G. Restricts physical access to servers and storage.
+
+9. Chief Privacy Officer and Contact
+A. Chief Privacy Officer
+• Name: Jo Hyun-sang
+• Department: Technology Research Institute
+• Title: Director
+• Contact: 02-419-2261, consultant@ciklux.com (also via in-app customer center)
+B. Personal Information Protection Department
+• Department: Technology Research Institute
+• Person in Charge: Jo Hyun-sang
+• Contact: 02-419-2261, consultant@ciklux.com
+
+10. Remedies for Infringement of Rights
+Users may seek dispute resolution or consultation with the following organizations:
+• Personal Information Dispute Mediation Committee: 1833-6972 (www.kopico.go.kr)
+• KISA Personal Information Infringement Report Center: 118 (privacy.kisa.or.kr)
+• Supreme Prosecutors' Office: 1301 (www.spo.go.kr)
+• National Police Agency: 182 (ecrm.police.go.kr)
+
+11. Changes to Privacy Policy
+This Privacy Policy applies from [Effective Date]. The Company may revise it according to legal or
+policy changes, and will notify users in a manner equivalent to Article 3 (Posting and Revision of
+Terms), Paragraph 3.

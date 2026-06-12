@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="100px" height="100px" viewBox="0 0 100 100">
+
+    <g>
+        <path
+            fill="#FFD700"
+            stroke="#FFD700"
+            stroke-width="2"
+            stroke-linejoin="round"
+            d="M50,10 L53,20 L63,20 L55,27 L58,37 L50,31 L42,37 L45,27 L37,20 L47,20 Z" />
+
+        <path
+            fill="#FFD700"
+            stroke="#FFD700"
+            stroke-width="3"
+            stroke-linejoin="round"
+            d="M85,70 L88,80 L98,80 L90,87 L93,97 L85,91 L77,97 L80,87 L72,80 L82,80 Z" />
+
+        <path
+            fill="#FFD700"
+            stroke="#FFD700"
+            stroke-width="2"
+            stroke-linejoin="round"
+            d="M15,70 L18,80 L28,80 L20,87 L23,97 L15,91 L7,97 L10,87 L2,80 L12,80 Z" />
+    </g>
+</svg>
