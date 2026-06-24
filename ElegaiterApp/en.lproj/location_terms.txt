@@ -1,59 +1,37 @@
 [Elegaiter Location-Based Service Terms and Conditions]
-
 Article 1 (Purpose)
-These Terms and Conditions set forth the rights, obligations, and responsibilities between Ciklux
-Co., Ltd. (hereinafter referred to as the “Company”) and users regarding the location-based
-services provided by the Company.
+These Terms and Conditions set forth the rights, obligations, and responsibilities between Ciklux Co., Ltd. (hereinafter referred to as the “Company”) and users regarding the location-based services provided by the Company.
 
 Article 2 (Collection and Use of Location Information)
-The Company collects location information for the purpose of evaluating users’ mobility and
-providing related services.
-Collected location information shall not be used for any purpose other than those stated in
-Paragraph 1, and shall not be disclosed to any third party without the member’s consent, except
-as required by applicable laws and regulations.
+The Company collects location information for the purpose of evaluating users’ mobility and providing related services.
+Collected location information shall not be used for any purpose other than those stated in Paragraph 1, and shall not be disclosed to any third party without the member’s consent, except as required by applicable laws and regulations.
 
 Article 3 (Withdrawal of Consent to Use Location Information)
-Members may withdraw their consent to the collection and use of location information at any
-time. Withdrawal can be made via the in-app settings menu or by contacting the Company’s
-Chief Privacy Officer (refer to the Privacy Policy).
+Members may withdraw their consent to the collection and use of location information at any time. Withdrawal can be made via the in-app settings menu or by contacting the Company’s Chief Privacy Officer (refer to the Privacy Policy).
 However, withdrawing consent may limit access to services that require location information.
 
 Article 4 (Retention and Disposal of Location Information)
-Collected location information shall be immediately deleted once the purpose of service provision
-is achieved or the member withdraws consent.
-Notwithstanding Paragraph 1, in accordance with Article 16 of the Act on the Protection and Use
-of Location Information, records of the use and provision of location information are
-automatically retained for six months. These records shall only be used for purposes prescribed by
-law.
+Collected location information shall be immediately deleted once the purpose of service provision is achieved or the member withdraws consent.
+Notwithstanding Paragraph 1, in accordance with Article 16 of the Act on the Protection and Use of Location Information, records of the use and provision of location information are automatically retained for six months. These records shall only be used for purposes prescribed by law.
 
 Article 5 (Limitation of Liability)
-The Company shall not be held liable for any damages resulting from difficulties in obtaining
-accurate location information or temporary service interruptions due to technical errors, unstable
-communication environments, or similar causes, provided that the Company is not grossly
-negligent or acting with intent.
-The Company’s liability for damages under the Location Information Act shall be determined in
-accordance with the relevant provisions of the Act (see Article 28 of the Location Information Act).
-The Company’s responsibilities concerning location information shall be applied in conjunction
-with any disclaimers and indemnification clauses outlined in the Terms of Service.
+The Company shall not be held liable for any damages resulting from difficulties in obtaining accurate location information or temporary service interruptions due to technical errors, unstable communication environments, or similar causes, provided that the Company is not grossly negligent or acting with intent.
+The Company’s liability for damages under the Location Information Act shall be determined in accordance with the relevant provisions of the Act (see Article 28 of the Location Information Act).
+The Company’s responsibilities concerning location information shall be applied in conjunction with any disclaimers and indemnification clauses outlined in the Terms of Service.
 
 Article 6 (Location Information Manager)
-The Company designates a Location Information Manager to oversee the management and
-protection of location information.
-Location Information Manager: [Same as Chief Privacy Officer or separately designated]
+The Company designates a Location Information Manager to oversee the management and protection of location information.
+Location Information Manager: Cho Hyun-sang
 Department: Technology Research Institute
 Contact: 02-419-2261, consultant@ciklux.com
 
 Article 7 (Rights of Members)
 Members may:
-Withdraw all or part of their consent to the collection, use, or provision of personal location
-information;
+Withdraw all or part of their consent to the collection, use, or provision of personal location information;
 Request temporary suspension of the use of personal location information;
 Access or request correction of their personal location information; and
 Access records regarding the use or provision of personal location information.
-Procedures for exercising these rights are detailed under the “Data Subject and Legal
-Representative Rights” section in the Privacy Policy.
+Procedures for exercising these rights are detailed under the “Data Subject and Legal Representative Rights” section in the Privacy Policy.
 
 Article 8 (Miscellaneous)
-Matters not specified in these Terms shall be governed by applicable laws, including the Location
-Information Act and the Personal Information Protection Act, as well as other relevant Company
-policies and agreements.
+Matters not specified in these Terms shall be governed by applicable laws, including the Location Information Act and the Personal Information Protection Act, as well as other relevant Company policies and agreements.

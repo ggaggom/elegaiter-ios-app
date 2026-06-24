@@ -1,31 +1,18 @@
 [Details on Consent for Collection and Use of Sensitive Information for Elegaiter Service]
-
-This consent is required separately under the Personal Information Protection Act for the
-collection and use of your sensitive information (gait data, height, weight, etc.). Please review the
-information below and freely choose whether to grant or refuse consent. If you refuse consent,
-some or all of the Service may not be available.
+This consent is required separately under the Personal Information Protection Act for the collection and use of your sensitive information (gait data, height, weight, etc.). Please review the information below and freely choose whether to grant or refuse consent. If you refuse consent, some or all of the Service may not be available.
 
 1. Items of Sensitive Information Collected
 • Gait Data: Stride length, step count, walking speed, balance information, etc.
 • Physical Information: Height, weight
 
 2. Purpose of Collection and Use of Sensitive Information
-• Service Provision and Operation: To implement core service functions, including gait data
-analysis, report generation, exercise record and statistics management, and evaluation of user
-mobility (activity).
-• Service Improvement and New Service Development: To improve service performance and
-develop new features through analysis of gait data and physical information, statistical analysis,
-and research. All data used for research is anonymized and cannot identify individuals.
-The collected sensitive information is not used for medical diagnosis, treatment, or disease
-prevention, and the Company does not provide medical judgments or opinions.
+• Service Provision and Operation: To implement core service functions, including gait data analysis, report generation, exercise record and statistics management, and evaluation of user mobility (activity).
+• Service Improvement and New Service Development: To improve service performance and develop new features through analysis of gait data and physical information, statistical analysis, and research. All data used for research is anonymized and cannot identify individuals.
+
+The collected sensitive information is not used for medical diagnosis, treatment, or disease prevention, and the Company does not provide medical judgments or opinions.
 
 3. Retention and Usage Period
-Your sensitive information is retained and used according to the periods specified in the Privacy
-Policy. It will be promptly destroyed once the purpose of collection is achieved or upon account
-deletion. However, if retention is required by law, it will be kept for the legally prescribed period.
+Your sensitive information is retained and used according to the periods specified in the Privacy Policy. It will be promptly destroyed once the purpose of collection is achieved or upon account deletion. However, if retention is required by law, it will be kept for the legally prescribed period.
 
 4. Right to Refuse Consent and Consequences
-You have the right to refuse consent for the collection and use of sensitive information. However,
-sensitive information is essential for the Service’s core functions (such as gait analysis, report
-provision, and exercise records). Refusing consent may prevent you from using the Elegaiter
-Service or restrict access to certain features.
+You have the right to refuse consent for the collection and use of sensitive information. However, sensitive information is essential for the Service’s core functions (such as gait analysis, report provision, and exercise records). Refusing consent may prevent you from using the Elegaiter Service or restrict access to certain features.
