@@ -166,7 +166,7 @@
 "recent_7days_walking_high_motivation" = "Try adding a bit more running to your routin";
 "recent_7days_none_high" = "Your consistency is impressive!";
 "recent_7days_none_high_motivation" = "Try adding variety to your walking and running";
-"exercise_ready_greeting" = "Hello, %1$s!";
+"exercise_ready_greeting" = "Hello, %@!";
 "exercise_ready_today_record" = "Today's Record";
 "exercise_ready_daily_goal" = "Goal Achievement: %1$d%%";
 "exercise_ready_continue" = "Continue Exercise";
@@ -247,13 +247,13 @@
 "exercise_graph_overlay_view" = "Overlay";
 "exercise_graph_split_view" = "Split";
 "exercise_max_label" = "(max)";
-"exercise_steps_count" = "%1$s steps";
+"exercise_steps_count" = "%@ steps";
 "record_week" = "Week %d";
 "record_hours" = "%1$d hr";
 "record_minutes" = "%1$d min";
 "record_seconds" = "%1$d sec";
-"record_display_name" = "%1$s %2$d Session %3$d";
-"record_display_title" = "%1$s %2$d Exercise Records";
+"record_display_name" = "%1$@ %2$d Session %3$d";
+"record_display_title" = "%1$@ %2$d Exercise Records";
 "record_title" = "Exercise Record";
 "record_weekly" = "Weekly";
 "record_monthly" = "Monthly";
