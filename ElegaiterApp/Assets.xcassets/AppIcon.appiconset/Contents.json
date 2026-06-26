@@ -1,7 +1,31 @@
 {
   "images" : [
     {
-      "filename" : "elegaiter_favicon.png",
+      "filename" : "Group 258.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Group 259.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "Group 260.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

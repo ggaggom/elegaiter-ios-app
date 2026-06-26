@@ -7,7 +7,7 @@
 		<string>PretendardVariable.ttf</string>
 	</array>
 	<key>ElegaiterSDKApiKey</key>
-	<string>YOUR_PARTNER_API_KEY</string>
+	<string>yiwoo-ios-api-key-001</string>
 	<key>ElegaiterSDKCodeSignature</key>
 	<string></string>
 </dict>
