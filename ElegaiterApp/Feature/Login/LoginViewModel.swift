@@ -24,8 +24,25 @@ class LoginViewModel: ObservableObject {
 
     // MARK: - Published Properties
     
-    @Published var id: String = ""
-    @Published var password: String = ""
+    /// 사용자 입력 아이디
+    @Published var id: String = {
+        #if DEBUG
+        // return "yiwoo456"
+        return ""
+        #else
+        return ""
+        #endif
+    }()
+    
+    /// 사용자 입력 비밀번호
+    @Published var password: String = {
+        #if DEBUG
+        // return "aaa111!!!"
+        return ""
+        #else
+        return ""
+        #endif
+    }()
     
     /// 자동 로그인 체크박스 상태 (기본값: true)
     @Published var isAutoLogin: Bool = true
@@ -148,6 +165,7 @@ class LoginViewModel: ObservableObject {
             // 3. 결과 처리
             switch result {
             case .success:
+                await ReviewDemoDataSeeder.seedIfNeeded(userId: trimmedId, sdk: sdk)
                 eventSubject.send(.loginSuccess)
                 
             case .failure(let error):

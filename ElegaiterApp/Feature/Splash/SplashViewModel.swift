@@ -237,6 +237,7 @@ class SplashViewModel: ObservableObject {
             }
             
             logger.debug("✅ [Splash] 자동 로그인 가능: \(userId)")
+            await ReviewDemoDataSeeder.seedIfNeeded(userId: userId, sdk: sdk)
             uiState = .isLoggedIn(userId: userId)
             
         case .success(false):
